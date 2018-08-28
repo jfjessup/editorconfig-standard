@@ -7,7 +7,7 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.{java,yml,json,js,ts,jsx,tsx,html,css,sass,scss,less}]
+[*.{java,yml,json,xml,js,ts,jsx,tsx,html,css,sass,scss,less}]
 indent_style = space
 indent_size = 2
 
